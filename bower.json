@@ -1,7 +1,7 @@
 {
-  "name": "bemquery-package-boilerplate",
+  "name": "hello-world",
   "description": "BEMQuery",
-  "main": "dist/bemquery-package-boilerplate.umd.js",
+  "main": "dist/hello-world.umd.js",
   "authors": [
       {
         "name": "BEMQuery team",
@@ -13,7 +13,7 @@
     "BEM",
     "BEMQuery"
   ],
-  "homepage": "https://github.com/BEMQuery/bemquery-package-boilerplate",
+  "homepage": "https://github.com/BEMQuery/hello-world",
   "ignore": [
       "**/.*",
       "node_modules",
